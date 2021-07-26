@@ -1,6 +1,6 @@
 KSP example
 ---
-Exploring Kotlin Symbol Processing - KSP. This is jgitust an experiment.
+Exploring Kotlin Symbol Processing - KSP. This is just an experiment.
 
 Project contains 2 modules
 - Processing
@@ -24,7 +24,6 @@ Processor options in `SymbolProcessorEnvironment.options` are specified in gradl
 ```
   ksp {
     arg("enabled", "true")
-    ...
   }
 ```
 
